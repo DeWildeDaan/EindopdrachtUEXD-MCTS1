@@ -1,0 +1,4 @@
+1)
+Een app die een alarm geeft wanneer een infuus leeg is. Zo kan je door de shiften heen weten wanneer er 1 leeg is.
+- infuus toevoegen/verwijderen
+- infuus op pauze zetten
